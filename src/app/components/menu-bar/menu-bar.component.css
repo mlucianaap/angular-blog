@@ -1,0 +1,17 @@
+.menu-bar__container ul {
+    display: flex;
+    gap: 2rem;
+}
+
+.menu-bar__container ul li {
+    list-style: none;
+}
+
+.menu-bar__container ul li a {
+    text-decoration: none;
+    transition: .3s;
+}
+
+.menu-bar__container ul li a:hover {
+    color: #acacac;
+}
