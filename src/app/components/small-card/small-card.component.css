@@ -5,13 +5,15 @@
 
 .small-card__container-content {
     display: flex;
+    justify-content: space-between;
     gap: 1rem;
 }
 
 .small-card__photo {
     overflow: hidden;
     border-radius: 4px;
-    width: 450px;
+    width: 200px;
+    min-width: 200px;
 }
 
 .small-card__photo img {
