@@ -16,3 +16,29 @@
     border-top: solid #1f1f1f 1px;
     border-bottom: solid #1f1f1f 1px;
 }
+
+/* Mobile */
+
+@media (max-width: 1024px) {
+    .menu__title__container > h1 {
+      font-size: 5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu__title__container > h1 {
+      font-size: 4rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .menu__title__container > h1 {
+      font-size: 2rem;
+    }
+}
+
+@media (max-width: 280px) {
+    .menu__title__container > h1 {
+      font-size: 1.7rem;
+    }
+}

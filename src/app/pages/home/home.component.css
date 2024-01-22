@@ -10,3 +10,13 @@ header {
     display: flex;
     justify-content: center;
 }
+
+/* Mobile */
+
+@media (max-width: 1024px) {
+    .articles__container {
+        margin-top: 1.5rem;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+}

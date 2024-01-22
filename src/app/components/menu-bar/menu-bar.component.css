@@ -15,3 +15,15 @@
 .menu-bar__container ul li a:hover {
     color: #acacac;
 }
+
+/* Mobile */
+
+@media (max-width: 280px) {
+    .menu-bar__container ul {
+      gap: 1rem;
+    }
+
+    .menu-bar__container ul li a {
+        font-size: .8rem;
+    }
+}
