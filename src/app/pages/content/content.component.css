@@ -17,6 +17,10 @@
     margin-top: 1rem;
 }
 
+.content__title, .content__description {
+    width: calc(100vw - 30vw);
+}
+
 .content__title h1 {
     text-align: center;
     border-bottom: solid #1f1f1f 1px;
@@ -25,7 +29,6 @@
 }
 
 .content__description {
-    width: calc(100vw - 30vw);
     display: flex;
     flex-direction: column;
 }
