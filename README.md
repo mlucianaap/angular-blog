@@ -13,22 +13,22 @@ The project is available [here](https://movies-blog-mlucianaap.vercel.app/)
 
 To access the project source code on your machine and run it. First clone the project:
 
-```sh
+```
 git clone https://github.com/mlucianaap/angular-blog.git
 ```
 
 Navigate to the project directory:
-```sh
+```
 cd angular-blog
 ```
 
 Install project dependencies:
-```sh
+```
 npm install
 ```
 
 To run the Angular server in development mode, use the command below:
-```sh
+```
 ng serve
 ```
 
