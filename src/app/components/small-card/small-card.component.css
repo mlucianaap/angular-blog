@@ -38,6 +38,10 @@
     font-size: 1rem;
 }
 
+.small-card__title h1 a {
+    text-decoration: none;
+}
+
 .small-card__container-separator {
     margin: 1rem 0;
 }
