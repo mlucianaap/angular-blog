@@ -17,7 +17,7 @@
     margin-top: 1rem;
 }
 
-.content__title, .content__description {
+.content__title h1, .content__description {
     width: calc(100vw - 30vw);
 }
 
